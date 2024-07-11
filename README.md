@@ -1,4 +1,3 @@
-![7](https://github.com/Shailyk05/MUsic-Store-Project/assets/153099163/c910f7ce-c18b-4d21-b017-9c7ff01f1178)# MUsic Store Project
 
 🎧 Key Findings from the Analysis:-- 
 🌎 The USA, United Kingdom, and Sweden dominate in the number of invoices. 
